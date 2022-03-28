@@ -16,3 +16,9 @@ function chandan(){
 
 	echo 'dsgdgdsgdsg';
 }
+
+function bulbul()
+{
+
+	echo "Hello Bulbul";
+}
